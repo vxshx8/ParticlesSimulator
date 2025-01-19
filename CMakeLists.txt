@@ -13,7 +13,7 @@ link_directories(${CMAKE_SOURCE_DIR}/sdl2/lib)
 
 
 file(GLOB SOURCES
-    ${CMAKE_SOURCE_DIR}/ParticleSimulator/src/*.cpp
+    ${CMAKE_SOURCE_DIR}/ParticlesSimulator/src/*.cpp
 )
 
 
